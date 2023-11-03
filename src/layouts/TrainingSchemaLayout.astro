@@ -2,7 +2,6 @@
 const { frontmatter } = Astro.props;
 ---
 
-
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -13,12 +12,13 @@ const { frontmatter } = Astro.props;
     </head>
     <body>
         <div class="grid-container">
-            <h1>{frontmatter.title}</h1>
-            <slot />
+            <div>
+                <h1>{frontmatter.title}</h1>
+                <slot />
+            </div>
         </div>
     </body>
 </html>
-
 
 <style is:global>
     table,
