@@ -2,10 +2,21 @@
 const { frontmatter } = Astro.props;
 ---
 
-<html>
-    <!-- ... -->
-    <h1>{frontmatter.title}</h1>
-    <slot />
-    <!-- Markdown content is injected here -->
-    <!-- ... -->
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{frontmatter.mnemonic}</title>
+    </head>
+    <body>
+        <div class="grid-container">
+            <h1>{frontmatter.title}</h1>
+            <slot />
+        </div>
+    </body>
 </html>
+
+
