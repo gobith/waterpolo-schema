@@ -1,4 +1,5 @@
 ---
+mnemonic: Mokum CG1
 title: Waterpolo Schema CG1
 layout: ../layouts/IndexLayout.astro
 ---
