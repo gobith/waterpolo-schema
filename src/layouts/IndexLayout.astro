@@ -8,4 +8,19 @@ const { frontmatter } = Astro.props;
     <slot />
     <!-- Markdown content is injected here -->
     <!-- ... -->
+
+
+    <style is:global>
+        table,
+        th,
+        td {
+            border: 1px solid;
+            padding: 0.5rem;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+    </style>
 </html>
