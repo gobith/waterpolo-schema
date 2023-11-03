@@ -20,3 +20,21 @@ const { frontmatter } = Astro.props;
 </html>
 
 
+<style is:global>
+    table,
+    th,
+    td {
+        border: 1px solid;
+        padding: 0.5rem;
+    }
+
+    table {
+        border-collapse: collapse;
+    }
+
+    .grid-container {
+        display: grid;
+        place-items: center; /* or use justify-content and align-items below */
+        height: 100%;
+    }
+</style>
