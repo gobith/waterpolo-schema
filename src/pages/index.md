@@ -1,6 +1,6 @@
 ---
 mnemonic: Mokum CG1
-title: Waterpolo Schema CG1
+title: Waterpolo Schema CG1 Test Test
 layout: ../layouts/IndexLayout.astro
 ---
 | Dag | Datum | | Programma |
