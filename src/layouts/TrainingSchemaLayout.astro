@@ -5,6 +5,10 @@ const { frontmatter } = Astro.props;
 <html lang="en">
     <head>
         <meta charset="utf-8" />
+        <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Roboto"
+        />
         <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width" />
         <meta name="generator" content={Astro.generator} />
@@ -21,6 +25,11 @@ const { frontmatter } = Astro.props;
 </html>
 
 <style is:global>
+
+body {
+        font-family: "Roboto", sans-serif;
+    }
+
     table,
     th,
     td {
@@ -28,6 +37,7 @@ const { frontmatter } = Astro.props;
         padding: 0.5rem;
     }
 
+  
     table {
         border-collapse: collapse;
     }
