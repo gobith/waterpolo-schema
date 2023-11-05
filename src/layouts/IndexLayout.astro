@@ -25,7 +25,7 @@ const { frontmatter } = Astro.props;
 <style is:global>
     body {
         font-family: "Roboto", sans-serif;
-        background: radial-gradient(white, #17bdea);
+        background: repeating-radial-gradient(white, #17bdea);
     }
 
     tr:hover {
@@ -42,7 +42,12 @@ const { frontmatter } = Astro.props;
     table {
         border-collapse: collapse;
         background-color: white;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
     }
+
+
+    
+
 
     .grid-container {
         display: grid;
