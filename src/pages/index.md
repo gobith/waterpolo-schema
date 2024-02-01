@@ -9,14 +9,14 @@ layout: ../layouts/IndexLayout.astro
 |[Wo](/dates/2024-1-24)|24-Jan-2024|18:00|19:00|Ryan|Tze Moi|Claudio - Manon|Droogtraining - Zwemmen - Waterpolo|
 |[Ma](/dates/2024-1-29)|29-Jan-2024|19:30|21:00|Frans|Yolande||Droogtraining - Zwemmen - Waterpolo|
 |[Wo](/dates/2024-1-31)|31-Jan-2024|18:00|19:00|Ryan|Doreen|Jorieke - Sander|Droogtraining - Zwemmen - Waterpolo|
-|[Ma](/dates/2024-2-5)|5-Feb-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
-|[Wo](/dates/2024-2-7)|7-Feb-2024|18:00|19:00|Ryan|<span style="color:red">**Niet bezet**</span>|<span style="color:red">**Niet bezet**</span> - <span style="color:red">**Niet bezet**</span>|Droogtraining - Zwemmen - Waterpolo|
-|[Ma](/dates/2024-2-12)|12-Feb-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
-|[Wo](/dates/2024-2-14)|14-Feb-2024|18:00|19:00|Ryan|<span style="color:red">**Niet bezet**</span>|<span style="color:red">**Niet bezet**</span> - <span style="color:red">**Niet bezet**</span>|Droogtraining - Zwemmen - Waterpolo|
-|[Ma](/dates/2024-2-19)|19-Feb-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
-|[Wo](/dates/2024-2-21)|21-Feb-2024|18:00|19:00|Ryan|<span style="color:red">**Niet bezet**</span>|<span style="color:red">**Niet bezet**</span> - <span style="color:red">**Niet bezet**</span>|Droogtraining - Zwemmen - Waterpolo|
-|[Ma](/dates/2024-2-26)|26-Feb-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
-|[Wo](/dates/2024-2-28)|28-Feb-2024|18:00|19:00|Ryan|<span style="color:red">**Niet bezet**</span>|<span style="color:red">**Niet bezet**</span> - <span style="color:red">**Niet bezet**</span>|Droogtraining - Zwemmen - Waterpolo|
+|[Ma](/dates/2024-2-5)|5-Feb-2024|19:30|21:00|Frans|Svetlana||Droogtraining - Zwemmen - Waterpolo|
+|[Wo](/dates/2024-2-7)|7-Feb-2024|18:00|19:00|Ryan|Lydie|Jorieke - Manon|Droogtraining - Zwemmen - Waterpolo|
+|[Ma](/dates/2024-2-12)|12-Feb-2024|19:30|21:00|Frans|Koen||Droogtraining - Zwemmen - Waterpolo|
+|[Wo](/dates/2024-2-14)|14-Feb-2024|18:00|19:00|Ryan|Doreen|Claudio - Roellie|Droogtraining - Zwemmen - Waterpolo|
+|[Ma](/dates/2024-2-19)|19-Feb-2024|19:30|21:00|Frans|Yolande||Droogtraining - Zwemmen - Waterpolo|
+|[Wo](/dates/2024-2-21)|21-Feb-2024|18:00|19:00|Ryan|Claudio|Maaike - Jorieke|Droogtraining - Zwemmen - Waterpolo|
+|[Ma](/dates/2024-2-26)|26-Feb-2024|19:30|21:00|Frans|Jelle||Droogtraining - Zwemmen - Waterpolo|
+|[Wo](/dates/2024-2-28)|28-Feb-2024|18:00|19:00|Ryan|Tze Moi|Doreen - Lydie|Droogtraining - Zwemmen - Waterpolo|
 |[Ma](/dates/2024-3-4)|4-Mar-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
 |[Wo](/dates/2024-3-6)|6-Mar-2024|18:00|19:00|Ryan|<span style="color:red">**Niet bezet**</span>|<span style="color:red">**Niet bezet**</span> - <span style="color:red">**Niet bezet**</span>|Droogtraining - Zwemmen - Waterpolo|
 |[Ma](/dates/2024-3-11)|11-Mar-2024|19:30|21:00|Frans|<span style="color:red">**Niet bezet**</span>||Droogtraining - Zwemmen - Waterpolo|
