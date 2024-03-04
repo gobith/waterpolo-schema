@@ -1,0 +1,520 @@
+schema
+
+	^ {
+		  '2024-03-04'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Svetlana asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Svetlana asAvailable.
+		  Yolande asAvailable.
+
+
+		  '2024-03-06'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Doreen asTrainer.
+		  TzeMoi asDoorGuard.
+		  Roellie asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+		  '2024-03-11'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Bas asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-03-13'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Lydie asTrainer.
+		  Jorieke asDoorGuard.
+		  Claudio asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  '2024-03-18'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Jelle asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-03-20'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Claudio asTrainer.
+		  Manon asDoorGuard.
+		  NotYetChoosen asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Manon asAvailable.
+
+
+		  '2024-03-25'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Yolande asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Maaike asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-03-27'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Jorieke asTrainer.
+		  TzeMoi asDoorGuard.
+		  Ping asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  Ping asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  '2024-04-01'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Svetlana asDoorGuard.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Roellie asAvailable.
+		  Svetlana asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-04-03'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Manon asTrainer.
+		  Lydie asDoorGuard.
+		  Jorieke asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Manon asAvailable.
+
+
+		  "Not yet done"
+		  '2024-04-08'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Bas asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+
+		  '2024-04-10'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Doreen asTrainer.
+		  TzeMoi asDoorGuard.
+		  Claudio asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-04-15'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Koen asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-04-17'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Maaike asTrainer.
+		  Roellie asDoorGuard.
+		  Jorieke asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Maaike asAvailable.
+		  Roellie asAvailable.
+
+
+		  "Not yet done"
+		  '2024-04-22'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Jelle asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-04-24'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Ping asTrainer.
+		  TzeMoi asDoorGuard.
+		  Lydie asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Maaike asAvailable.
+		  Ping asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-04-29'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Jelle asDoorGuard.
+		  Jelle asAvailable.
+
+		  '2024-05-01'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Jorieke asTrainer.
+		  TzeMoi asDoorGuard.
+		  Manon asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-05-06'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Svetlana asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Svetlana asAvailable.
+
+		  '2024-05-08'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Roellie asTrainer.
+		  TzeMoi asDoorGuard.
+		  Jorieke asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-05-13'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Koen asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+
+		  '2024-05-15'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Claudio asTrainer.
+		  TzeMoi asDoorGuard.
+		  Doreen asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-05-20'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Yolande asDoorGuard.
+		  Koen asAvailable.
+		  Roellie asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-05-22'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Doreen asTrainer.
+		  Manon asDoorGuard.
+		  Jorieke asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-05-27'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Bas asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-05-29'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Doreen asTrainer.
+		  Maaike asDoorGuard.
+		  Ping asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  Ping asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-06-03'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Svetlana asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Svetlana asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-06-05'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Manon asTrainer.
+		  TzeMoi asDoorGuard.
+		  Jorieke asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-06-10'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Yolande asDoorGuard.
+		  Bas asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-06-12'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Lydie asTrainer.
+		  Claudio asDoorGuard.
+		  Lydie asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Jorieke asAvailable.
+		  Lydie asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-06-17'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Jelle asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-06-19'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Roellie asTrainer.
+		  TzeMoi asDoorGuard.
+		  Lydie asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Lydie asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-06-24'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Koen asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-06-26'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Ping asTrainer.
+		  Doreen asDoorGuard.
+		  Claudio asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  Ping asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-07-01'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Yolande asDoorGuard.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Svetlana asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-07-03'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Doreen asTrainer.
+		  TzeMoi asDoorGuard.
+		  Manon asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-07-08'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Bas asDoorGuard.
+		  Bas asAvailable.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-07-10'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Maaike asTrainer.
+		  Roellie asDoorGuard.
+		  Doreen asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Doreen asAvailable.
+		  Jorieke asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  Roellie asAvailable.
+		  TzeMoi asAvailable.
+
+
+		  "Not yet done"
+		  '2024-07-15'.
+		  Time1930.
+		  WP90MIN.
+		  Frans asTrainer.
+		  Koen asDoorGuard.
+		  Jelle asAvailable.
+		  Koen asAvailable.
+		  Yolande asAvailable.
+
+		  '2024-07-17'.
+		  Time1800.
+		  WP60MIN.
+		  Ryan asTrainer.
+		  Jorieke asTrainer.
+		  TzeMoi asDoorGuard.
+		  Maaike asReserve.
+		  NotYetChoosen asReserve.
+		  Claudio asAvailable.
+		  Jorieke asAvailable.
+		  Maaike asAvailable.
+		  Manon asAvailable.
+		  TzeMoi asAvailable } asSchema
