@@ -19,7 +19,7 @@ schema
 		  Ryan asTrainer.
 		  Doreen asTrainer.
 		  TzeMoi asDoorGuard.
-		  Roellie asReserve.
+		  Manon asReserve.
 		  NotYetChoosen asReserve.
 		  Claudio asAvailable.
 		  Doreen asAvailable.
@@ -171,7 +171,7 @@ schema
 		  WP60MIN.
 		  Ryan asTrainer.
 		  Maaike asTrainer.
-		  Roellie asDoorGuard.
+		  Doreen asDoorGuard.
 		  Jorieke asReserve.
 		  NotYetChoosen asReserve.
 		  Claudio asAvailable.
@@ -244,7 +244,7 @@ schema
 		  Time1800.
 		  WP60MIN.
 		  Ryan asTrainer.
-		  Roellie asTrainer.
+		  Claudio asTrainer.
 		  TzeMoi asDoorGuard.
 		  Jorieke asReserve.
 		  NotYetChoosen asReserve.
@@ -402,7 +402,7 @@ schema
 		  Time1800.
 		  WP60MIN.
 		  Ryan asTrainer.
-		  Roellie asTrainer.
+		  Maaike asTrainer.
 		  TzeMoi asDoorGuard.
 		  Lydie asReserve.
 		  NotYetChoosen asReserve.
@@ -483,7 +483,7 @@ schema
 		  WP60MIN.
 		  Ryan asTrainer.
 		  Maaike asTrainer.
-		  Roellie asDoorGuard.
+		  TzeMoi asDoorGuard.
 		  Doreen asReserve.
 		  NotYetChoosen asReserve.
 		  Claudio asAvailable.
